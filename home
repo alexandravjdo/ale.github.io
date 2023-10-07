@@ -1,5 +1,0 @@
-{block:Description} {/block:Description}
-{block:TagPage} {/block:TagPage}
-{block:Posts} {block:Post1} {block:IndexPage} {/block:IndexPage}
-{block:Pagination} {block:PreviousPage} {/block:PreviousPage} {block:NextPage} {/block:NextPage} {/block:Pagination}
-{block:IndexPage} {/block:IndexPage}
